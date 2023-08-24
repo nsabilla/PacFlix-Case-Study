@@ -2,12 +2,16 @@
 
 ## 1. Case Description
 
-A. PacFlix adalah Layanan Platform Video Streaming
-B. PacFlix memiliki tiga plan:
+```
+PacFlix adalah Layanan Platform Video Streaming. PacFlix memiliki tiga plan:
    - Basic Plan
    - Standard Plan
    - Premium Plan
-C. Tiap plan memiliki benefit dan harga yang berbeda-beda:
+```
+
+Tiap plan memiliki benefit dan harga yang berbeda-beda:
+
+![Screenshot (1143)](https://github.com/nsabilla/PacFlix-Case-Study/assets/118416658/69c99160-074b-43a2-834a-bdc4489c66ad)
 
 
 
